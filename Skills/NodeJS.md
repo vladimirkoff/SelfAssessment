@@ -3,22 +3,22 @@
 - Internals and concepts
   - Strong and weak sides of node.js  🎓 known
   - Stateful and stateless servers  🎓 known
-  - Nonblocking I/O and slocking code 👂 heard
+  - Nonblocking I/O and slocking code  🖐️ used
   - Event loop: phases 👂 heard
   - Event loop: microtasks and macrotasks 👂 heard
-  - Garbage collection 👂 heard
-  - Node.js LTS schedule 👂 heard
+  - Garbage collection  🖐️ used
+  - Node.js LTS schedule  🖐️ used
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules
-  - ECMAScript modules
-  - node:module  🎓 known
-  - Caching in CJS and ESM
-  - Modules as singletons  🎓 known
+  - CommonJS modules   🖐️ used
+  - ECMAScript modules  🖐️ used 
+  - node:module   🖐️ used
+  - Caching in CJS and ESM  🖐️ used
+  - Modules as singletons   🖐️ used
   - Contexts and scripts node:vm
-  - Dependencies: npm, node_modules  🎓 known
-  - Dependencies: package.json and package lock  🎓 known
+  - Dependencies: npm, node_modules   🖐️ used
+  - Dependencies: package.json and package lock   🖐️ used
   - Module-based permissions model
   - Isolation with modularity
   - Dependency injection
@@ -33,9 +33,9 @@
   - Clustering
   - Watch filesystem changes with --watch
 - Internal API
-  - Streams API👂 heard
-  - Web Streams API
-  - Crypto API
+  - Streams API👂 heard 
+  - Web Streams API  🖐️ used
+  - Crypto API  🖐️ used
   - Password hashing with node:crypto.scrypt
   - Web Crypto API
   - File system API: sync and async
@@ -61,13 +61,13 @@
   - Blob, File, Buffer, node:buffer
   - Module node:zlib
 - Application structure and architecture
-  - Isolation between layer
-  - Multilayer approach
+  - Isolation between layer  🖐️ used
+  - Multilayer approach  🖐️ used
   - Separation of concerns
-  - Inversion of control
-  - Dependency injection
+  - Inversion of control  🖐️ used
+  - Dependency injection  🖐️ used
   - GRASP
-  - SOLID
+  - SOLID  🖐️ used
   - GoF patterns
   - Distributed systems
   - Highload applications
@@ -86,24 +86,24 @@
 - Network
   - IP sticky sessions  👂 heard
   - Endpoint throttling 👂 heard
-  - HTTP(S)   🎓 known
-  - TCP/SSL  🎓 known
-  - UDP  🎓 known
+  - HTTP(S)    🖐️ used
+  - TCP/SSL   🖐️ used
+  - UDP   🖐️ used
   - TLS  
-  - Websocket  🎓 known
+  - Websocket   🖐️ used
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
-  - REST
+  - REST  🖐️ used
   - RPC
-  - Routing
+  - Routing  🖐️ used
   - DoS
-  - DDoS
+  - DDoS  🖐️ used
   - XSS
   - Path traversal
   - CSRF
   - DNS
-  - Fetch API
+  - Fetch API  🖐️ used
   - IncomingMessage
   - SQL injection
   - noDelay
@@ -113,12 +113,12 @@
   - SSL certificates
   - Protocol agnostic approach
 - Technique and tools
-  - Native test runner
-  - Logging
+  - Native test runner  🖐️ used
+  - Logging  🖐️ used
   - Application configuring
-  - Testing
-  - CI/CD
-  - Readable
+  - Testing  🖐️ used
+  - CI/CD  🖐️ used
+  - Readable  🖐️ used
   - Writable
   - Transform
   - back pressure
@@ -136,11 +136,11 @@
   - Query builder
   - Object-Relational Mapping
 - Error handling and debugging
-  - Error
-  - error.cause
-  - error.code
-  - error.message
-  - error.stack
+  - Error  🖐️ used
+  - error.cause  🖐️ used
+  - error.code  🖐️ used
+  - error.message  🖐️ used
+  - error.stack  🖐️ used
   - How to avoid mixins
   - Error.captureStackTrace
   - Uncaught exceptions

@@ -6,31 +6,31 @@
   - Structured programming  🎓 known
   - Non-structured programming  🎓 known
   - Functional programming  🎓 known
-  - Prototype-based programming  🎓 known
-  - Object-oriented programming  🎓 known
-  - Object-based programming  🎓 known
-  - Generic programming
-  - Concurrent computing
-  - Asyncronous programming
-  - Parallel programming
-  - Reactive programming
+  - Prototype-based programming   🖐️ used
+  - Object-oriented programming   🖐️ used
+  - Object-based programming   🖐️ used
+  - Generic programming  🖐️ used
+  - Concurrent computing  🖐️ used
+  - Asyncronous programming  🖐️ used
+  - Parallel programming  🖐️ used
+  - Reactive programming  🖐️ used
   - FRP (Functional-reactive)
   - Automata-based programming
-  - Domain-specific languages
-  - Multi-paradigm programming 👂 heard
+  - Domain-specific languages  🖐️ used
+  - Multi-paradigm programming  🖐️ used
   - Metaprogramming 👂 heard
   - Actor model
 - OOP basics
-  - constructor
-  - new
-  - Static method
-  - Method
-  - Async method
-  - Getters, Setters
+  - constructor  🖐️ used
+  - new  🖐️ used
+  - Static method  🖐️ used
+  - Method  🖐️ used
+  - Async method  🖐️ used
+  - Getters, Setters  🖐️ used
   - Public fields  🎓 known
   - Private fields  🎓 known
-  - Field declarations
-  - Inheritance
+  - Field declarations  🖐️ used
+  - Inheritance  🖐️ used
   - Parent class  🎓 known
   - Polymorphism  🎓 known
   - Abstract class  🎓 known
@@ -44,23 +44,23 @@
 - Patterns
   - Singleton  🎓 known
   - Factory Method  🎓 known
-  - Abstract Factory 👂 heard
-  - Adapter 👂 heard
-  - Observer 👂 heard
-  - Strategy 👂 heard
+  - Abstract Factory  🖐️ used
+  - Adapter  🖐️ used
+  - Observer  🖐️ used
+  - Strategy  🖐️ used
   - Facade  🎓 known
-  - Proxy
+  - Proxy  🖐️ used
   - Chain of Responsibility
   - Command
-  - Iterator
+  - Iterator  🖐️ used
   - State
   - Bridge  🎓 known
-  - Builder
-  - Prototype
-  - Composite
+  - Builder  🖐️ used
+  - Prototype  🖐️ used
+  - Composite  🖐️ used
   - Decorator
   - Flyweight
   - Mediator
   - Memento
   - Template Method
-  - Visitor
+  - Visitor  🖐️ used

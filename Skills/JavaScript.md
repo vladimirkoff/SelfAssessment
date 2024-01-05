@@ -82,7 +82,7 @@
   - Date  🖐️ used
   - BigInt  🖐️ used
 - Infrastructure
-  - V8
+  - V8  🖐️ used
   - Node.js  🖐️ used
   - npm  🖐️ used
   - prettier  🖐️ used

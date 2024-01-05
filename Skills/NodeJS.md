@@ -1,24 +1,24 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js
-  - Stateful and stateless servers
-  - Nonblocking I/O and slocking code
-  - Event loop: phases
-  - Event loop: microtasks and macrotasks
-  - Garbage collection
-  - Node.js LTS schedule
+  - Strong and weak sides of node.js  🎓 known
+  - Stateful and stateless servers  🎓 known
+  - Nonblocking I/O and slocking code 👂 heard
+  - Event loop: phases 👂 heard
+  - Event loop: microtasks and macrotasks 👂 heard
+  - Garbage collection 👂 heard
+  - Node.js LTS schedule 👂 heard
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
   - CommonJS modules
   - ECMAScript modules
-  - node:module
+  - node:module  🎓 known
   - Caching in CJS and ESM
-  - Modules as singletons
+  - Modules as singletons  🎓 known
   - Contexts and scripts node:vm
-  - Dependencies: npm, node_modules
-  - Dependencies: package.json and package lock
+  - Dependencies: npm, node_modules  🎓 known
+  - Dependencies: package.json and package lock  🎓 known
   - Module-based permissions model
   - Isolation with modularity
   - Dependency injection
@@ -26,14 +26,14 @@
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
-  - Command line arguments
-  - Node.js CLI
-  - Process-based permissions
+  - Command line arguments  🎓 known
+  - Node.js CLI  🎓 known
+  - Process-based permissions  🎓 known
   - Graceful shutdown
   - Clustering
   - Watch filesystem changes with --watch
 - Internal API
-  - Streams API
+  - Streams API👂 heard
   - Web Streams API
   - Crypto API
   - Password hashing with node:crypto.scrypt
@@ -84,13 +84,13 @@
   - GoF for Node.js
   - Leaking abstractions
 - Network
-  - IP sticky sessions
-  - Endpoint throttling
-  - HTTP(S)
-  - TCP/SSL
-  - UDP
-  - TLS
-  - Websocket
+  - IP sticky sessions  👂 heard
+  - Endpoint throttling 👂 heard
+  - HTTP(S)   🎓 known
+  - TCP/SSL  🎓 known
+  - UDP  🎓 known
+  - TLS  
+  - Websocket  🎓 known
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
@@ -152,7 +152,7 @@
   - Data race
 - Integrations and bindings
   - Native addons
-  - C and C++ addons
+  - C and C++ addons  🎓 known
   - Rust addons
   - Zig addons
   - NAN (Native Abstractions for Node.js)

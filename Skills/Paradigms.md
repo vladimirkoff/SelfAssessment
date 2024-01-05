@@ -1,14 +1,14 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
-  - Imperative programming
-  - Structured programming
-  - Non-structured programming
-  - Functional programming
-  - Prototype-based programming
-  - Object-oriented programming
-  - Object-based programming
+  - Procedural programming  🎓 known
+  - Imperative programming  🎓 known
+  - Structured programming  🎓 known
+  - Non-structured programming  🎓 known
+  - Functional programming  🎓 known
+  - Prototype-based programming  🎓 known
+  - Object-oriented programming  🎓 known
+  - Object-based programming  🎓 known
   - Generic programming
   - Concurrent computing
   - Asyncronous programming
@@ -17,8 +17,8 @@
   - FRP (Functional-reactive)
   - Automata-based programming
   - Domain-specific languages
-  - Multi-paradigm programming
-  - Metaprogramming
+  - Multi-paradigm programming 👂 heard
+  - Metaprogramming 👂 heard
   - Actor model
 - OOP basics
   - constructor
@@ -27,34 +27,34 @@
   - Method
   - Async method
   - Getters, Setters
-  - Public fields
-  - Private fields
+  - Public fields  🎓 known
+  - Private fields  🎓 known
   - Field declarations
   - Inheritance
-  - Parent class
-  - Polymorphism
-  - Abstract class
-  - Interface
-  - Encapsulation
-  - Hidden class
-  - Object form
-  - instance
-  - Introspection
-  - Reflection
+  - Parent class  🎓 known
+  - Polymorphism  🎓 known
+  - Abstract class  🎓 known
+  - Interface  🎓 known
+  - Encapsulation  🎓 known
+  - Hidden class  🎓 known
+  - Object form  🎓 known
+  - instance  🎓 known
+  - Introspection  🎓 known
+  - Reflection  🎓 known
 - Patterns
-  - Singleton
-  - Factory Method
-  - Abstract Factory
-  - Adapter
-  - Observer
-  - Strategy
-  - Facade
+  - Singleton  🎓 known
+  - Factory Method  🎓 known
+  - Abstract Factory 👂 heard
+  - Adapter 👂 heard
+  - Observer 👂 heard
+  - Strategy 👂 heard
+  - Facade  🎓 known
   - Proxy
   - Chain of Responsibility
   - Command
   - Iterator
   - State
-  - Bridge
+  - Bridge  🎓 known
   - Builder
   - Prototype
   - Composite
